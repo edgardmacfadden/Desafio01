@@ -1,2 +1,4 @@
 # Desafio01
- Desafio do site sobre a história do mascote do Android
+ Desafio do site sobre a história do mascote do Android baseado
+ no cursoemvideo do professor Gustavo Guanabara.
+
